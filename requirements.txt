@@ -1,0 +1,7 @@
+pint
+tensorflow
+ipykernel
+pandas
+holoviews
+numba
+matplotlib
